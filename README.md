@@ -4,4 +4,4 @@
 
 ## Description
 
-The Freelance Track API is a powerful tool for managing freelance projects and tasks. It provides a robust set of features to streamline project planning, tracking, and user management. This API is built using Node.js and Express.js for the backend, with MongoDB as the database. Postman was used for testing the API endpoints.
+Daily Notes is a comprehensive note-taking application designed to help users organize and manage their daily thoughts, tasks, and reflections with ease. Featuring a user-friendly interface and robust functionality, Daily Notes enables efficient note creation, categorization, and retrieval, making it an essential tool for personal and professional use.
