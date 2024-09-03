@@ -1,16 +1,9 @@
 # daily_notes
 
-A new Flutter project.
+# Daily Notes
 
-## Getting Started
+![nodemongo](https://assets.northflank.com/nodemongo_9c3caf6f45.png)
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Freelance Track API is a powerful tool for managing freelance projects and tasks. It provides a robust set of features to streamline project planning, tracking, and user management. This API is built using Node.js and Express.js for the backend, with MongoDB as the database. Postman was used for testing the API endpoints.
