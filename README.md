@@ -16,6 +16,19 @@ Splash | All | Add
  ![edit](https://github.com/user-attachments/assets/be0b03ad-4d80-4f49-a995-a9fab3b92691) | ![delete](https://github.com/user-attachments/assets/aeeb4a06-aba1-4078-9478-03de13f5e363) | ![search](https://github.com/user-attachments/assets/7c7089a4-590e-4867-86be-ebea3492940d)
 <br />
 
+## Project Structure 📁
+
+This Flutter project utilizes a clean architecture approach to enhance maintainability and scalability. The project structure is organized as follows:
+
+- `lib/core/`: Contains core utilities and functionalities used throughout the application.
+- `lib/features/`: Organized by feature modules, each containing its own presentation, domain, and data layers.
+- `lib/main.dart`: The entry point of the application.
+
+This structure promotes a clear separation of concerns and facilitates easier management and extension of the codebase.
+
+![CleanArchitecture](https://github.com/user-attachments/assets/e0695060-f965-45c4-ae2b-d3f30cce9df8)
+
+
 
 
 
