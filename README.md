@@ -1,8 +1,6 @@
-# daily_notes
-
 # Daily Notes
 
-![nodemongo](https://assets.northflank.com/nodemongo_9c3caf6f45.png)
+![cover](https://github.com/user-attachments/assets/7143eed7-dca0-4941-ae01-87e7d9f6b63a)
 
 ## Description
 
