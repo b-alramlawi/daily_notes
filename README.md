@@ -15,7 +15,6 @@ Splash | All | Add
 --- | --- | --- |
  ![edit](https://github.com/user-attachments/assets/be0b03ad-4d80-4f49-a995-a9fab3b92691) | ![delete](https://github.com/user-attachments/assets/aeeb4a06-aba1-4078-9478-03de13f5e363) | ![search](https://github.com/user-attachments/assets/7c7089a4-590e-4867-86be-ebea3492940d)
 <br />
-
 ## Project Structure 📁
 
 This Flutter project utilizes a clean architecture approach to enhance maintainability and scalability. The project structure is organized as follows:
