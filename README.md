@@ -29,6 +29,19 @@ This structure promotes a clear separation of concerns and facilitates easier ma
 ![CleanArchitecture](https://github.com/user-attachments/assets/e0695060-f965-45c4-ae2b-d3f30cce9df8)
 
 
+## Technologies 🛠️
+
+This project leverages the following technologies:
+
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to write Flutter applications.
+- **Provider**: A state management solution that simplifies the management of app state.
+- **Clean Architecture**: An architectural pattern that promotes separation of concerns and maintainability.
+- **SQFlite**: A plugin for SQLite database management within Flutter applications.
+- **Material 3**: The latest iteration of Material Design, providing modern UI components and design elements.
+
+These technologies work together to create a robust and scalable application.
+
 
 
 
