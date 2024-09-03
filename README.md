@@ -1,4 +1,4 @@
-# Daily Notes
+<h1 align="center">Daily Notes</h1>
 
 ![cover](https://github.com/user-attachments/assets/7143eed7-dca0-4941-ae01-87e7d9f6b63a)
 
